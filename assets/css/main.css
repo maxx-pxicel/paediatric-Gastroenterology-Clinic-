@@ -211,7 +211,7 @@ h6 {
 }
 
 .header .logo img {
-  max-height: 80px;
+  max-height: 60px;
   margin-right: 8px;
 }
 
@@ -1025,7 +1025,7 @@ section,
 }
 
 .hero .hero-content {
-  padding: 5rem 0;
+  padding: 3.5rem 0;
 }
 
 .hero .hero-content .trust-badges {
